@@ -1,21 +1,66 @@
 {
-    "projects" : [],
-    "categories" : [
-        {
-            "id" : 1,
-            "name" : "Infra"
-        },
-        {
-            "id" : 2,
-            "name" : "Desenvolvimento"
-        },
-        {
-            "id" : 3,
-            "name" : "Design"
-        },
-        {
-            "id" : 4,
-            "name" : "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "name": "Site da Nike",
+      "budget": "89.456",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Carreira como dev",
+      "budget": "50.000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Planejando 2023",
+      "budget": "1.00",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Desenvolvedor Python",
+      "budget": "4500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
