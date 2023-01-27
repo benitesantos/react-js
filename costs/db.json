@@ -23,8 +23,8 @@
       "id": 4
     },
     {
-      "name": "Planejando 2023",
-      "budget": "1.00",
+      "name": "Planejamento 2023  ",
+      "budget": "100.00",
       "category": {
         "id": "4",
         "name": "Planejamento"
@@ -37,8 +37,8 @@
       "name": "Desenvolvedor Python",
       "budget": "4500",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
