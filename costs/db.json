@@ -1,50 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Site da Nike",
-      "budget": "89.456",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Carreira como dev",
-      "budget": "50.000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Planejamento 2023  ",
-      "budget": "100.00",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Desenvolvedor Python",
-      "budget": "4500",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
